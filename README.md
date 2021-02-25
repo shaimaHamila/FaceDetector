@@ -1,2 +1,2 @@
 ## FaceDetector
-### AI Face Detection with Python & openCV
+### AI Face Detection with Python & OpenCV
